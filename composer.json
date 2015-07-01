@@ -1,0 +1,16 @@
+{
+    "name": "rparent4/php_site",
+    "authors": [
+        {
+            "name": "Ashante Timoll",
+            "email": "ashantetimoll@gmail.com"
+        }
+    ],
+    "require": {
+        "monolog/monolog": "^1.14",
+        "slim/slim": "^2.6",
+        "twig/twig": "^1.18",
+        "slim/slim-skeleton": "^2.1",
+        "swiftmailer/swiftmailer": "^5.4"
+    }
+}
